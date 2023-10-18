@@ -1,0 +1,87 @@
+.header-text {
+    color: white;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.header-list {
+    margin-right: 50px;
+    gap: 30px;
+    font-size: 20px;
+}
+.header-img {
+    width: 45px;
+}
+.main-site {
+background-image: url(./Img/school.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 91.4vh;
+}
+body {
+    background-image: url(./Img/1674749394_top-fon-com-p-krasivii-fon-dlya-prezentatsii-golubogo-ts-2.jpg);
+}
+.kub-img {
+    width: 650px;
+}
+.box1 {
+    gap: 100px;
+    display: flex;
+}
+.content {
+    display: flex;
+    margin-left: 200px;
+}
+.news-box2 {
+    height: 403px;
+    width: 500px;
+    border: 2px solid white;
+    padding: 30px 30px;
+    background: rgb(185,195,215);
+background: linear-gradient(90deg, rgba(185,195,215,1) 4%, rgba(199,213,222,1) 6%);
+}
+.news-img {
+    height: 400px;
+}
+.news-box {
+    border: 2px solid white;
+}
+.news-text {
+    color: rgb(34, 84, 109);
+}
+.news-photo {
+    width: 400px;
+}
+.news-list {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.news-img1 {
+    width: 500px;
+    height: 300px;
+    width: 100%;
+}
+.news-image2 {
+    width: 500px;
+    height: 300px;
+}
+.box-active {
+    width: 500px;
+    background: rgb(185,195,215);
+background: linear-gradient(90deg, rgba(185,195,215,1) 4%, rgba(199,213,222,1) 6%);
+padding: 30px;
+color: rgb(34, 84, 109);
+}
+.box-activ {
+    width: 400px;
+    background: rgb(185,195,215);
+background: linear-gradient(90deg, rgba(185,195,215,1) 4%, rgba(199,213,222,1) 6%);
+padding: 30px;
+color: rgb(34, 84, 109);
+}
+.icon{
+    width: 30px;
+    margin-right: 7px;
+}

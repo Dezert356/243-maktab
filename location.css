@@ -1,0 +1,53 @@
+.map-box {
+    width: 800px;
+    height: 650px;
+}
+.box {
+    padding: 20px;
+    border-radius: 20px;
+}
+.box2 {
+    padding: 50px 50px 0 50px;
+}
+.phone-link {
+    text-decoration: none;
+    color: black;
+}
+.email-link {
+    text-decoration: none;
+    color: black;
+}
+.header-text {
+    color: green;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.header-list {
+    margin-right: 50px;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.header-img {
+    width: 45px;
+}
+body {
+    background-image: url(./Img/photo-map.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.box2 {
+    background-color: white;
+    border: 2px solid white;
+}
+.header-text{
+    color: white;
+}
+
+.school-img {
+    width: 400px;
+    height: 280px;
+    margin-top: 8px;
+}
